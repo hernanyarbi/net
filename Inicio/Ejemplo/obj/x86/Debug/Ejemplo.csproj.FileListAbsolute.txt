@@ -5,3 +5,15 @@ C:\Users\LPOO7\Documents\projects\empmlo\net\Inicio\Ejemplo\obj\x86\Debug\Ejempl
 C:\Users\LPOO7\Documents\projects\empmlo\net\Inicio\Ejemplo\obj\x86\Debug\Ejemplo.csproj.GenerateResource.Cache
 C:\Users\LPOO7\Documents\projects\empmlo\net\Inicio\Ejemplo\obj\x86\Debug\Ejemplo.exe
 C:\Users\LPOO7\Documents\projects\empmlo\net\Inicio\Ejemplo\obj\x86\Debug\Ejemplo.pdb
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ejemplo\obj\x86\Debug\Ejemplo.csprojResolveAssemblyReference.cache
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ejemplo\obj\x86\Debug\Ejemplo.Form1.resources
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ejemplo\obj\x86\Debug\Ejemplo.Properties.Resources.resources
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ejemplo\obj\x86\Debug\Ejemplo.csproj.GenerateResource.cache
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ejemplo\obj\x86\Debug\Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ejemplo\obj\x86\Debug\Ejemplo.exe
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ejemplo\obj\x86\Debug\Ejemplo.pdb
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ejemplo\bin\Debug\Ventana.exe
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ejemplo\bin\Debug\Ventana.pdb
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ejemplo\obj\x86\Debug\Ejemplo.csproj.CopyComplete

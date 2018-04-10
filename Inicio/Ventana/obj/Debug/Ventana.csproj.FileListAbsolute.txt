@@ -1,0 +1,9 @@
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ventana\bin\Debug\Ventana.exe
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ventana\bin\Debug\Ventana.pdb
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ventana\obj\Debug\Ventana.csprojResolveAssemblyReference.cache
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ventana\obj\Debug\Ventana.Properties.Resources.resources
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ventana\obj\Debug\Ventana.csproj.GenerateResource.cache
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ventana\obj\Debug\Ventana.csproj.CoreCompileInputs.cache
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ventana\obj\Debug\Ventana.exe
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ventana\obj\Debug\Ventana.pdb
+C:\Users\HSoft\Documents\Facu\lpoo1\Inicio\Ventana\obj\Debug\Ventana.NewWindow.resources

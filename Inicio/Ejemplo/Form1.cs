@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using Ventana;
 
 namespace Ejemplo
 {
@@ -23,7 +24,8 @@ namespace Ejemplo
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Close();
+            NewWindow fVentana = new NewWindow();
+            fVentana.Show();
         }
     }
 }
