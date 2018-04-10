@@ -1,0 +1,7 @@
+C:\Users\LPOO7\Documents\projects\empmlo\net\Inicio\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\LPOO7\Documents\projects\empmlo\net\Inicio\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\LPOO7\Documents\projects\empmlo\net\Inicio\Ejemplo\obj\x86\Debug\Ejemplo.Form1.resources
+C:\Users\LPOO7\Documents\projects\empmlo\net\Inicio\Ejemplo\obj\x86\Debug\Ejemplo.Properties.Resources.resources
+C:\Users\LPOO7\Documents\projects\empmlo\net\Inicio\Ejemplo\obj\x86\Debug\Ejemplo.csproj.GenerateResource.Cache
+C:\Users\LPOO7\Documents\projects\empmlo\net\Inicio\Ejemplo\obj\x86\Debug\Ejemplo.exe
+C:\Users\LPOO7\Documents\projects\empmlo\net\Inicio\Ejemplo\obj\x86\Debug\Ejemplo.pdb
